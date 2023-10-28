@@ -1,0 +1,5 @@
+website to scrape: https://research.com/scientists-rankings/computer-science
+
+geckodriver download url: https://github.com/mozilla/geckodriver/releases
+
+gecko_driver documentation: https://firefox-source-docs.mozilla.org/testing/geckodriver/index.html
